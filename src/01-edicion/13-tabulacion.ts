@@ -9,10 +9,10 @@
 
 
 const parrafo1 = `
-                Hola!
-Qué tal están?
-            Todo bien
-                    Saludos
+    Hola!
+    Qué tal están?
+    Todo bien
+    Saludos
     De nuevo
 `;
 
@@ -20,10 +20,10 @@ Qué tal están?
 
 //! Objetivo final !//
 const parrafo2 = `
-Hola!
+    Hola!
     Qué tal están?
-        Todo bien
-        Saludos
-De nuevo
+    Todo bien
+    Saludos
+    De nuevo
 `;
 

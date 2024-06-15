@@ -13,12 +13,8 @@
 //*
 
 let NoMeBorres = ':)';
-let Borrame = ':(';
-
 NoMeBorres = '1';
-Borrame    = 'a';
 NoMeBorres = '1';
-Borrame    = 'a';
 
 
 // Resultado final (sin los comentarios claro.)

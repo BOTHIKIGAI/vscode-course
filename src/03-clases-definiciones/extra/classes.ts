@@ -1,10 +1,10 @@
 
-export class SuperHero {
+export class Hero {
 
-    name   : string = '';
-    power  : string = '';
-    age    : number = 0;
-    hobbies: string[] = [];
+    name    : string   = '';
+    power   : string   = '';
+    age     : number   = 0;
+    hobbies : string[] = [];
 
     private _secretName: string = '';
 
